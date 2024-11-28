@@ -1,0 +1,5 @@
+print('Olá, mundo')
+print('Quero ser rico')
+print('FELIZ NATAL')
+print('Feliz Ano Novo')
+print('Gosto de pizza')
